@@ -1,0 +1,8 @@
+The result is :
+ Hello this is 1st text file 
+ Hello this is second text fileThe result is :
+ Hello this is 1st text file 
+ Hello this is second text file
+The result is :
+ Hello this is 1st text file 
+ Hello this is second text file
